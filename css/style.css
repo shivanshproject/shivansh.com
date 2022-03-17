@@ -32,7 +32,7 @@
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
 * {
-  /* background-color: rgb(0, 0, 0); */
+  background-color: rgb(0, 0, 0);
   /* opacity: 90%; */
   box-sizing: border-box !important;
   transition: ease all 0.5s;
@@ -43,7 +43,7 @@ html {
 }
 
 body {
-  background: url("/images/bg.png") center;
+/*   background: url("/images/bg.png") center; */
   /* background-color: #000; */
   /* opacity: 20%; */
 
