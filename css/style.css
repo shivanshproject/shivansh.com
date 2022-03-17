@@ -33,7 +33,6 @@
 
 * {
   
-  /* opacity: 90%; */
   box-sizing: border-box !important;
   transition: ease all 0.5s;
 }
@@ -43,9 +42,6 @@ html {
 }
 
 body {
-/*   background: url("/images/bg.png") center; */
-  /* background-color: #000; */
-  /* opacity: 20%; */
 background-color: black;
   color: #666666;
   font-size: 14px;
